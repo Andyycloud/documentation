@@ -123,7 +123,7 @@ You can use Boto to:
         service_name='s3',
         # The following can be obtained from the UKCloud portal
         aws_access_key_id='<access key or username>',
-        # The following can be obtained and reset if required from the UKCloud portal
+        # The following can be obtained from the UKCloud portal
         aws_secret_access_key='<secret key>',
         # The endpoint will be either https://cas.frn00006.ukcloud.com
         # or https://cas.frn00006.ukcloud.com
