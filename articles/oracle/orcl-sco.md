@@ -177,7 +177,7 @@ You cannot access the underlying infrastructure. This includes (but isn't limite
 
 ## Service migration
 
-UKCloud do not currently provide migration services, however customers are free to bring their own migration tools and utilise them within the UKCloud for Oracle Software environment.
+UKCloud do not currently provide migration services, however customers are free to bring their own migration tools and utilise them within the UKCloud for Oracle Software environment. During maintenance activities customer OVMs may be affected and we will advise of the impact within the maintenance notification
 
 ## Service reporting
 
